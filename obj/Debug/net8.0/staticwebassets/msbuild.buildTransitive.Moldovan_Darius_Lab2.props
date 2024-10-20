@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\buildMultiTargeting\Moldovan_Darius_Lab2.props" />
+</Project>

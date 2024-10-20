@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\Moldovan_Darius_Lab2.props" />
+</Project>
