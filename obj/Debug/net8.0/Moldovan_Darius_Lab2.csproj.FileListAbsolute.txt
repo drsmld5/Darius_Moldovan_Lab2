@@ -256,3 +256,4 @@ E:\VS projects\Moldovan_Darius_Lab2\obj\Debug\net8.0\refint\Moldovan_Darius_Lab2
 E:\VS projects\Moldovan_Darius_Lab2\obj\Debug\net8.0\Moldovan_Darius_Lab2.pdb
 E:\VS projects\Moldovan_Darius_Lab2\obj\Debug\net8.0\Moldovan_Darius_Lab2.genruntimeconfig.cache
 E:\VS projects\Moldovan_Darius_Lab2\obj\Debug\net8.0\ref\Moldovan_Darius_Lab2.dll
+E:\VS projects\Moldovan_Darius_Lab2\obj\Debug\net8.0\Moldovan_Darius_Lab2.sourcelink.json

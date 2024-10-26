@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Moldovan_Darius_Lab2")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+a28d199466a98a818f56579f7f434f1c0598d4d1")]
 [assembly: System.Reflection.AssemblyProductAttribute("Moldovan_Darius_Lab2")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Moldovan_Darius_Lab2")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
